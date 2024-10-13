@@ -1,0 +1,80 @@
+Narrator "Live Everyday To the Fullest"
+
+??? "I've often heard those words throughout my life but never took them seriously."
+
+??? "Now here I am 6 months after graduating college getting ready for work I've gotten used to the fact this job has nothing to do with my major, but hey while I'm by no means rich, it makes enough to pay the bills and allows me to be somewhat content, but that's just it I'm content with simply being content"
+
+??? "I don't know, but hey it's time for work again"
+
+Narrator "After getting ready you look in the mirror and repeat your daily manta to get you through the day"
+
+??? "Another day another dollar, dollars keep food on the table, and food keeps me outta the ground"
+
+Narrator "Leaving your apartment you breathe in that suburban air"
+
+??? "Heh it's like I never left, this place is the same as it was before I left for college four years ago."
+
+??? "Hmm it's been a while and we have time let's take the long way"
+
+Narrator "Walking through the neighborhood you dwell on your past"
+
+??? "Oh wow it's Old Man Jerry's old rental store I remember overhearing people back in high school would hang out here and rent movies. I'd considered asking to join back then but the anxiety of not knowing what to say or the fear of embarrassing myself froze me in place"
+
+Narrator "You see a sign on the door saying the store is going out of business"
+
+??? "Hm yea that makes sense, you can just stream everything these days. Hey isn't that where Kate's Karaoke used to be, oh looks like they replaced it with a new Moondollars, man people sure can't get enough coffee can they"
+
+Narrator "Deciding that's enough reminiscing for one day, you continue your trek to work until you come across an empty lot"
+
+??? "...Wait seriously where's Susan's bookstore"
+
+Old Man "Didn't you hear youngster the bookstore burned down four years ago, poor Susan didn't get out in time either. Really is a crying shame although she didn't get many customers the ones she did have loved both her and her store dearly may she rest in peace"
+
+??? "...oh I see thank you mister (must've happened while I was away at college) and yes she was loved I should know I was once of her customers and this place truly meant a lot to me (it was my high school haven and now it's gone *sigh*)"
+
+Narrator "The Old Man smiles softly"
+
+Old Man "On her behalf thank you for that I just know if she were still with us that hearing that would have meant a lot to her"
+
+??? "Please if anything I should be thanking her, both her and her bookstore got me through some tough times. Please excuse me but I have to get to work now but I'll be back to pay my respects"
+
+Narrator "You continue walking to work"
+
+Transition to next background
+
+??? "Well that was depressing but time's still ticking and the money not's gonna make itself. Goodbye childhood, man looking back on it I really should have..."
+
+Play sound
+
+Narrator "Before you can even finish that thought you hear blaring roar in front of you"
+
+??? "Wait wha..."
+
+Transition to cinematic 
+
+Narrator "in a flash your flung through the air crashing through the wreckage of what used to be Susan's bookstore, barely conscious you come to, only to realize that you can't move and you notice a crimson red substance flowing out of you."
+
+Narrator "Your mind goes blank, you try to scream but nothing comes out, your voice barely louder than a whisper strains itself in a futile attempt to cry out for help while your life flashes before your eyes"
+
+??? "No no w-way I can't go out like this struck a by a runaway car and left to slowly die in my old high school safe haven. Will anyone even find my body, will I be mourned, will anyone hold a funeral"
+
+Narrator "You come to grim conclusion"
+
+??? "Wait do I even have anyone that would care enough to do any of that for me. I've pushed my parents away and I don't have any friends. ...if I die here that's it, my death will be written off as an unfortunate accident that'll be forgotten in a couple of days"
+
+"No no no I c-an't not like this please anyone I beg of you, I'll do anything things can't end like this SOMEONE ANYONE GIVE ME ANOTHER CHANCE PLEASE...."
+
+Narrator "Everything goes dark"
+
+/transition NextSceneName
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+Scarlet "Hello there my name is Scarlet" playSong("Afflicted Fight" -v 1)
+
+setScene("Classroom" -s 5.5)
+
+Alexander "The name's Alexander but you can just call me Alex"
+
+Narrator "And thus boy met girl and the start of their journey commenced"
