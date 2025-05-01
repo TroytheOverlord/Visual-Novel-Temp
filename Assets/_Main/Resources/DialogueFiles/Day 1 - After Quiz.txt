@@ -1,0 +1,23 @@
+SetLayerMedia(background Classroom)
+
+PlaySong(Break)
+
+Teacher "Alright everyone that's it for homeroom today make your way to your lockers and get ready for lunch"
+
+Narrator "You head to your locker while your earlier thoughts weight on your mind"
+
+Scarlett "Well that was embarrassing, regardless Mrs. Smith's words really struck a cord I didn't heed them before.....but maybe now"
+
+Narrator "Once again your inner monologue is interrupted"
+
+Damien "hey there Scarlett"
+
+Scarlett "Ahh (man that's the second time this girl has caught me off guard) oh um hi there Celeste how can I help you"
+
+Damien "Nothing much just wanted if to know if you wanted to head to lunch together"
+
+Scarlet "huh why me (wait damn it I didn't mean to say that)"
+
+Damien "no reason really I just thought you'd make for interesting company"
+
+Scarlett "interesting company what does that mean anyway how should I respond"

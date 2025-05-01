@@ -1,0 +1,43 @@
+
+
+Narrator "You suddenly remember that you were standing in Susan's bookstore but saw no sign of Susan anywhere"
+
+??? "No please don't let anything have happened to Susan I gotta find out what happened"
+
+Narrator "You scope the street to see if anyone knows what happened"
+
+CreateCharacter(Gramps 1 -e true)
+
+??? "Excuse me sir but do you have any idea what happened to Susan's Bookstore"
+
+??? "and more importantly the owner Susan"
+
+Old Man "Didn't you hear youngster the bookstore burned down four years ago, poor Susan didn't get out in time either."
+
+Old Man "Really is a crying shame although she didn't get many customers"
+
+Old Man "the ones she did have loved both her and her store dearly may she rest in peace"
+
+??? "...oh I see thank you mister (must've happened while I was away at college) and yes she was loved."
+
+??? "I should know I was once of her customers and this place truly meant a lot to me (it was my high school haven and now it's gone)"
+
+Narrator "The Old Man smiles softly"
+
+Old Man "On her behalf thank you for that I just know if she were still with us that hearing that would have meant a lot to her"
+
+??? "Please if anything I should be thanking her, both her and her bookstore got me through some tough times."
+
+??? "Please excuse me but I have to get to work now but I'll be back to pay my respects"
+
+Narrator "You continue walking to work"
+
+Hide(Faith) 
+
+Old Man "Poor youngin looked devastated, Susan if you can see us from up there I hope you know that your still loved and missed" 
+
+Hide(Gramps)
+
+ClearLayerMedia(background)
+
+Load(TheEnd)

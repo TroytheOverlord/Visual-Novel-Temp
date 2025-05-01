@@ -1,0 +1,134 @@
+
+??? "I know this place hasn't been used in a while but man this place is dustier than my inbox...man even I cringe at my own jokes anyway let's get this over with"
+
+Narrator "after being sent to venture the old school house you find yourself in an abandoned library in search of something for your teacher"
+
+??? as Scarlet "(oh Scarlet you don't look busy could you do me a favor) what's that supposed to mean just because I was sitting alone and not doing anything...."
+
+Scarlet "Let's just look for this book before I make myself cry"
+
+Narrator "After what felt like hours of searching but in reality was 10 minutes"
+
+Scarlet "ugh this sucks how does he expect one person to find a single book among all this junk"
+
+Narrator "Just then you hear a noise"
+
+Scarlet "Who's there show yourself"
+
+??? "Easy there I come in peace I swear"
+
+wait(1), CreateCharacter(Jett 1 -e true)
+
+Scarlet "I find that hard to believe especially when you just creep up outta nowhere"
+
+??? "Touche Miss....hmm I didn't get your name madam"
+
+Scarlet "Because I didn't give it and you can drop the madam we look roughly the same age"
+
+Scarlet "Since you snuck up on me I think its only fair you tell me your name first"
+
+??? "Once again touche oh how you wound me, but enough of that the name's Damien"
+
+Scarlet "Scarlet, but more importantly what you are you doing in a place like this"
+
+Damien "oh you know looking for ghosts and all that, definitely didn't come in here while trying to get away from that crazy girl"
+
+Narrator "As Damien finishes his sentence both of you hear someone cry his name"
+
+??? "OH DAMIEN WHERE ARE YOU"
+
+Scarlet "...right um that wouldn't happen to be the crazy girl you were referring to right you know the one who appears to be heading this way right now"
+
+Damien "oh you gotta be kidding me I gotta hide please don't tell her where I went"
+
+Narrator "Before you can even respond Damien disappears"
+
+MoveCharacter(Jett 0.5 -0.5 0.75)
+
+Hide(Jett)
+
+wait(1), CreateCharacter(Faith 1 -e true)
+
+??? "Hmm"
+
+MoveCharacter(Faith 0.3 1 0.75)
+
+??? "Hmmm"
+
+MoveCharacter(Faith 0.7 1 0.75)
+
+??? "Hey red you wouldn't have happened to see a guy with silver hair and red eyes pass through here would you"
+
+MoveCharacter(Faith 0.5 1 0.75)
+
+choice "Major Choice - Will you sell out Damien"
+{
+	-Yes
+		Scarlet "Yea he's over there"
+
+		MoveCharacter(Jett 0.7 0.5 0.75)
+
+		Show(Jett)
+
+		Damien "(sigh)thanks a lot red, yea yea I hear you Des let's just get out of here first then I'll listen to your compl....I mean words of wisdom"
+
+		Hide(Jett)
+
+		Des? "Thanks a lot red you have no idea the trouble this guy causes me"
+
+		Hide(Faith)
+
+		Scarlet "Well that was weird maybe I should've kept my mouth shut but"
+		
+		Load(Off_Damien_Path_Afterwards)
+
+	-No
+		Scarlet "Nope haven't seen anyone"
+
+		??? "ugh well thanks anyway"
+
+		Hide(Faith)
+
+		MoveCharacter(Jett 0.7 0.5 0.75)
+
+		Show(Jett)
+
+		Damien "Phew thanks Red" 
+
+		Scarlet "The name's Scarlet not red, but anyway what was her deal she really came in like a force of nature huh"
+
+		Damien "Oh you don't know the half of it but let's say she gives me more grief than I give her"
+		
+		Damien "So again I appreciate you not ratting me out"
+
+		Scarlet "Don't mention it seriously I just didn't want to get involved but anaywa..."
+
+		Narrator "Before you can finish that sentence you notice a book under Damien's arm and it's the same book who were sent to retrieve"
+
+		Scarlet "Are you kidding me, have you had that book with you the whole time "
+
+		Damien "What this no it fell off one of the shelves when I was hiding why?"
+
+		Scarlet "That book is the whole reason I got sent here in the first and I've spent the past half hour looking for it"
+
+		Narrator "Before you can finish Damien places the book in your hands"
+
+		Damien "Well then it's yours as thanks for helping me out"
+
+		Narrator "In the distance you hear the bell ring"
+
+		Damien "And with that I bid you adieu mademoiselle I'd love to stay and chat but duty calls, hope to see you around though"
+
+		Hide(Jett)
+
+		Load(On_Damien_Path_Afterwards)
+		
+}
+
+
+
+
+
+
+
+

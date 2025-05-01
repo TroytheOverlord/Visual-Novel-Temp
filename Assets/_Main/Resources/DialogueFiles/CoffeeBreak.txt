@@ -1,0 +1,80 @@
+SetLayerMedia(background Cafeteria)
+
+StopSong()
+
+PlaySong(Calm -v 0.2)
+
+Narrator "You enter the Moondollars and are nearly blinded by all the lights"
+
+??? "Egh I forgot how bright it is these places, I wonder when they opened this Moondollars"
+
+MoveCharacter(Faith 0.1 0.5 0.75)
+
+Narrator "You think back to your college days"
+
+??? "Man back in college I practically lived in the on campus Moondollars, I remember crashing a handful of times during midterms and finals week...."
+
+??? "Man those were definitely times of my life yup"
+
+PlaySFX(Ahem)
+
+Narrator "The sound of impatient customers drags you back to reality as you realize that you've been holding up the line"
+
+??? "Oh crap sorry my mind was elsewhere"
+
+Annoyed Woman "We don't care hurry up and order"
+
+MoveCharacter(Faith 0.8 0.5 0.75)
+
+??? "Alright alright sorry again, now let see here"
+
+choice "What Will You Order"
+{
+	-The Usual 
+		??? "Let me have a Quad long shot grande in a venti cup half calf double cupped no sleeve salted caramel mocha latte"
+
+		??? "With two pumps of vanilla substitute two pumps of of white chocolate mocha and substitute two pumps of hazelnut for toffee nut half whole milk"
+
+		??? "And half breve with no whipped cream extra hot extra foam extra caramel drizzle extra salt add a scoop of vanilla bean powder with light ice well stirred"
+
+		??? "Oh before I forget I'd like to use my rewards points to pay"
+
+		Narrator "As you look up and lock eyes with the barista they greet you with a clearly forced smiled while their eyes are full of malice"
+
+		Narrator "You turn around to see the line of people behind you, who seem about ready to grab pitchforks and run you out of the store"
+
+		PlaySFX(SighF)
+
+		??? "You know what scratch that let me just get a cappuccino"
+
+		Cashier "Coming right up ma'am"
+
+		Narrator "Upon getting your drink quietly but quickly make your escape before the angry mob comes after you"
+		
+	-Quick and Simple 
+		??? "Lemme get a Pumpkin Spice Latte"
+
+		Cashier "Coming right up miss, I hope you enjoy and have a nice day"
+
+		??? "Thank you and the same to you"	
+}
+
+SetLayerMedia(background Town)
+
+MoveCharacter(Faith 0.5 0.5 0.75)
+
+Narrator "Deciding that's enough reminiscing for one day, you continue your trek to work until you come across a run down looking building"
+
+??? "...Wait this can't be right where's Susan's bookstore"
+
+Narrator "Shocked you decide to enter the building"
+
+Hide(Faith)
+
+Load(Remincising)
+
+
+
+
+
+

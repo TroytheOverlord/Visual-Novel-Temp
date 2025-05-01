@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8a21f985a86e4b7487fb82d2fa065fb, type: 3}
+  m_Name: Character Configuration Asset
+  m_EditorClassIdentifier: 
+  characters:
+  - name: Sayori
+    alias: Yori
+    characterType: 1
+    nameColor: {r: 1, g: 1, b: 1, a: 0.003921569}
+    dialogueColor: {r: 1, g: 1, b: 1, a: 0.003921569}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - name: Faith
+    alias: Fai
+    characterType: 1
+    nameColor: {r: 0.9339623, g: 0.40970984, b: 0.40970984, a: 0.003921569}
+    dialogueColor: {r: 0.9056604, g: 0.26059094, b: 0.26059094, a: 0.003921569}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - name: Jett
+    alias: Jet
+    characterType: 1
+    nameColor: {r: 0.5314447, g: 0.48220006, b: 0.7924528, a: 0.003921569}
+    dialogueColor: {r: 0.21295486, g: 0.118725546, b: 0.8679245, a: 0.003921569}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - name: Celeste
+    alias: Cel
+    characterType: 1
+    nameColor: {r: 0.5314447, g: 0.48220006, b: 0.7924528, a: 0.003921569}
+    dialogueColor: {r: 0.21295486, g: 0.118725546, b: 0.8679245, a: 0.003921569}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - name: AdultCeleste
+    alias: ACel
+    characterType: 1
+    nameColor: {r: 0.5314447, g: 0.48220006, b: 0.7924528, a: 0.003921569}
+    dialogueColor: {r: 0.21295486, g: 0.118725546, b: 0.8679245, a: 0.003921569}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - name: Gramps
+    alias: Gram
+    characterType: 1
+    nameColor: {r: 0.5314447, g: 0.48220006, b: 0.7924528, a: 0.003921569}
+    dialogueColor: {r: 0.21295486, g: 0.118725546, b: 0.8679245, a: 0.003921569}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - name: Brown
+    alias: Bro
+    characterType: 1
+    nameColor: {r: 0.5314447, g: 0.48220006, b: 0.7924528, a: 0.003921569}
+    dialogueColor: {r: 0.21295486, g: 0.118725546, b: 0.8679245, a: 0.003921569}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - name: SceneChanger
+    alias: q
+    characterType: 1
+    nameColor: {r: 0.5314447, g: 0.48220006, b: 0.7924528, a: 0.003921569}
+    dialogueColor: {r: 0.21295486, g: 0.118725546, b: 0.8679245, a: 0.003921569}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - name: Scarlet
+    alias: Scar
+    characterType: 1
+    nameColor: {r: 0.5314447, g: 0.48220006, b: 0.7924528, a: 0.003921569}
+    dialogueColor: {r: 0.21295486, g: 0.118725546, b: 0.8679245, a: 0.003921569}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

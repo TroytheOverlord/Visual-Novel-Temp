@@ -1,0 +1,51 @@
+StopSong()
+
+PlaySong("Lost In Time")
+
+??? "Well that was depressing but time's still ticking and the money's not gonna make itself. Goodbye childhood, man looking back on it I really should have..."
+
+Narrator "Before you can even finish that thought you hear blaring roar in front of you"
+
+PlaySFX(TruckHorn)
+
+??? "Wait wha..."
+
+PlaySFX(BuildingCrash)
+
+Narrator "in a flash your flung through the air crashing through the wreckage of what used to be Susan's bookstore, barely conscious you come to, only to realize that you can't move and you notice a crimson red substance flowing out of you."
+
+Narrator "Your mind goes blank, you try to scream but nothing comes out, your voice barely louder than a whisper strains itself in a futile attempt to cry out for help while your life flashes before your eyes"
+
+??? "No no w-way I can't go out like this struck a by a runaway car and left to slowly die in my old high school safe haven. Will anyone even find my body, will I be mourned, will anyone hold a funeral"
+
+??? "No no no I c-an't not like this please anyone I beg of you, I'll do anything things can't end like this SOMEONE ANYONE GIVE ME ANOTHER CHANCE PLEASE...."
+
+Narrator "Everything goes dark"
+
+Narrator "Well I certainly didn't expect us to meet again so soon but I told you last time that it'd be in your best interest if we didn't meet again"
+
+Narrator "Now then remember when I said some choices can't be undone and then I paused for a bit"
+
+Narrator "Well after looking through your life it seems you have many regrets and have countlessly pondered the various what if's in your life"
+
+Narrator "So here and now I ask you"
+
+choice "Will you explore those What If's"
+{
+	-Yes
+		Narrator "I see....then I shall impart these words onto you Live Life to the Fullest branch off on those untraveled roads and see what's in store"
+
+		Narrator "But know this there no more chances afters this, if you continue down the original path we'll be meeting sooner than you might like"
+
+		Narrator "Now go this is your SECOND CHANCE"
+
+		Narrator "....Wait I forgot to tell them they won't remember this conversation, meh they'll figure it out hopefully"
+
+		Load(Awakening)
+
+	-No
+		Narrator "I see then this is where your story ends"
+
+} 
+
+Narrator "GAME OVER"

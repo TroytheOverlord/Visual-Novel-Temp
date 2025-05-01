@@ -1,0 +1,15 @@
+Narrator "Upon leaving the old school house you rush through the courtyard not paying attention to your surroundings"
+
+Scarlet "crap crap I’m gonna be late to Chem…ugh I know how Mr. Lysander gets when we're late I gotta hurry"
+
+??? "Damn it I knew I shouldn’t have given that clown the time of day now I gonna be late, and Mrs. Smith is already on my case let’s not give her another reason to despise me" 
+
+??? "Ugh what the hell, watch it Red I’m in a rush"
+
+choice "Major Choice - How Will You Respond"
+{
+	- Watch yourself Brown 
+		Load(Watch_Yourself)
+	- My bad I’m running late 
+		Load(My_Bad)
+}

@@ -1,0 +1,23 @@
+Narrator "Upon leaving the old school house you get to the courtyard, and walk over to the lawn to grab a hand full of grass"
+
+Scarlet "Grass touching completed that should be enough for the next month or three"
+
+Narrator "After that sorry excuse for a joke (at least we think it was a joke) you take a seat on the near by bench"
+
+Scarlet "Still got some time to kill, but the question is how to spend it"
+
+Narrator "you glance towards the book you were sent to get"
+
+Scarlet "You know for all the trouble I went through finding you it'd be a shame to just give you up without ever seeing what your deal was"
+
+Narrator "You turn the book around to see the cover which in bold letters reads Of Mice and Men"
+
+Scarlet "...you can't be serious the way he described made it sound like it was some controversial book that called the current status quo into question with radical ideologies, not some book I wrote my 6th grade book report on"
+
+Scarlet "Well that was anticlimactic and a complete waste of time I'd toss this if wouldn't get in trouble but whatever what's done is done"
+
+Narrator "As you continue to grumble the bell rings signaling the end of the free period"
+
+Scarlet "Well we can complain later let's just get this thing where it needs to go"
+
+Narrator "You make your way to class"

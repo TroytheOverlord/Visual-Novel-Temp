@@ -1,0 +1,50 @@
+PlaySong("Lost In Time" -v 0.5)
+
+Narrator "Time...everyone has the same 24 hours in a day, the difference stems from how we use that time"
+
+Narrator "We make countless decisions on a day to day basis, we may come to regret some of those choices"
+
+Narrator "Have you ever regretted a choice you've made"
+
+choice "Have You Ever Regretted a Choice"
+{
+	-Yes
+		Narrator "I'd be surprised if you didn't to err is human nature after all"
+
+		Narrator "Plagued by the constant what if's of paths not crossed"
+
+	-No
+		Narrator "Oh really not even once you must be pretty self-confident"
+
+		Narrator "Maybe I could learn a thing or two from you"
+
+}
+
+Narrator "Nonetheless whether we regret our choices or not, some choices simply can't be undone and we must live with them forever"
+
+Narrator "But maybe just maybe...."
+
+choice "Hmm"
+{
+	-Maybe What
+		Narrator "Hmm oh never mind me just a passing thought"
+}
+
+PlaySFX(Alarm)
+
+Narrator "Oh would you look at that seems our time together is coming to an end"
+
+??? "Wait...will I see you again"
+
+Narrator "Who could say for sure, it'll depend on the choices you choose to make"
+
+Narrator "But for your sake I hope we don't"
+
+StopSong()
+
+Load(Prologue)
+
+
+
+
+

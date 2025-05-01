@@ -13,7 +13,7 @@ namespace Dialogue{
 
     public class DialogueParser{
 
-        private const string commandRegexPattern = "\\w*[^\\s]\\(";
+        private const string commandRegexPattern = @"[\w\[\]]*[^\s]\(";
         
         public static DialogueLine Parse(string rawLine){
             Debug.Log($"Parsing line - '{rawLine}'");
@@ -22,7 +22,7 @@ namespace Dialogue{
 
             Debug.Log($"Speaker = '{speaker}'\nDialogue = '{dialogue}'\nCommands = '{commands}'");
 
-            return new DialogueLine(speaker, dialogue, commands);
+            return new DialogueLine(rawLine, speaker, dialogue, commands);
         }
 
         private static(string, string, string) RipContent(string rawLine){
@@ -56,15 +56,18 @@ namespace Dialogue{
 
             // Identify Command Patterns
             Regex commandRegex = new Regex(commandRegexPattern);
-            Match match = commandRegex.Match(rawLine);
+            MatchCollection matches = commandRegex.Matches(rawLine);
             int commandStart = -1;
-            if(match.Success){
-                commandStart = match.Index;
-
-                if(dialogueStart == -1 && dialogueEnd == -1){
-                    return("", "", rawLine.Trim());
+            foreach(Match match in matches)
+            {
+                if(match.Index < dialogueStart || match.Index > dialogueEnd){
+                     commandStart = match.Index;
+                     break;
                 }
-                
+            }
+
+            if(commandStart != -1 && (dialogueStart == -1 && dialogueEnd == -1)){
+                return("", "", rawLine.Trim());
             }
 
             // If we are here then we either have dialogue or a multi word argument in a command.

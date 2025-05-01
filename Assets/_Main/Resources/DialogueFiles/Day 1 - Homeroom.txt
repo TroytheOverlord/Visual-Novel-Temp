@@ -1,0 +1,44 @@
+SetLayerMedia(background Classroom)
+
+PlaySong("Calm2" - v 0.2)
+
+Narrator "After the morning assembly all students are brought to their assigned homerooms and is seated"
+
+Show(Faith)
+
+Scarlett "Live everyday to the fullest huh so that's where I've heard that phrase from, those words would often play back in my head over and over even in my supposed final moments." 
+
+Scarlett "I never took them seriously at first but looking back on the life I've led so far can I truly say I've lived to fullest that I regret nothing"
+
+Narrator "you hesitate until a single tear comes rolling down from your left eye"
+
+Scarlett It's so obvious I don't even have to say it aloud even my body knows.....no I haven't there're so many things I regret," 
+
+Scarlett "Words I should have said, things I should have done, and people I should have never let go"
+
+Narrator "Your inner monologue is suddenly interrupted as the person behind you taps your shoulder"
+
+??? "Hey there are you ok"
+
+CreateCharacter(Jett 1 -e true)
+
+Scarlett "What, um are you talking to me"
+
+??? "Yea we're doing introductions right now and it's your turn"
+
+Scarlett "oh....OH sorry about that I was lost in thought (you quickly wipe away the tear) my name is Scarlett it's a pleasure to meet you all"
+
+Jason "Hello everyone my name is Jason and I look forward to working alongside you all"
+
+Narrator "After a few minutes introductions finally conclude"
+
+Teacher "Alright everyone now we'll take a quick test nothing to hard just something to get your minds but on track after the summer"
+
+PLaySFX(Boo)
+
+Teacher "Now now don't be like that it'll be quick"
+
+Narrator "Press N to bring up the button that will take you to the quiz"
+
+
+

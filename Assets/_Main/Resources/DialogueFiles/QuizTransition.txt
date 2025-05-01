@@ -1,0 +1,4 @@
+CreateCharacter(SceneChanger 1 -e true)
+
+Narrator "Press the button to transition to the quiz game"
+

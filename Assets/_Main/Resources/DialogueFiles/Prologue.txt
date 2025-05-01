@@ -1,0 +1,73 @@
+SetLayerMedia(background Bedroom)
+
+PlaySong(Upbeat -v 0.2)
+
+PlaySFX(IPhone)
+
+??? "Egh it's that time of day again"
+
+PlaySFX(Groan)
+
+choice "Do We Get Up Now"
+{
+	-Ehh Five More Minutes
+		PlaySFX(IPhone)
+		??? "Alright I get it I get it I'm getting up"
+
+	-Nah it's time to start the day 
+		??? "I'm already awake might as well get up for the day, and get an early start"
+
+}
+
+PlaySFX(Yawn)
+
+??? "That was a weird dream but it reminded me of something"
+
+Narrator "Live Everyday To the Fullest"
+
+CreateCharacter(Faith 1 -e true)
+
+Narrator "These words resonate in your mind as you recall the dream had"
+
+??? "I've often heard those words throughout my life but never took them seriously."
+
+??? "And look where that's got me now, here I am 6 months after graduating college getting ready for work although this job has nothing to do with my major I've gotten used it"
+
+??? "And hey while I'm by no means rich, it makes enough to pay the bills and allows me to be somewhat content, but that's just it I'm content with simply being content""
+
+??? "I don't know man, but anyway it's time for work again"
+
+Narrator "You begin getting ready and glance at yourself in the mirror to repeat your daily manta to get you through the day"
+
+choice "What will you say"
+{
+	-Something Inspiring
+		??? "Things might be rough right now but with time and effort they will get better. I just have to take it one day at a time"
+	-Something Quick and Simple
+		??? "Another day another dollar, dollars keep food on the table, and food keeps me outta the ground"
+}
+
+Narrator "You finish getting and head out to once again embark on the daily trek to work"
+
+Hide(Faith)
+
+Load(HavenInShambles)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

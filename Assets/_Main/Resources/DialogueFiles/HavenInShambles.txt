@@ -1,0 +1,50 @@
+SetLayerMedia(background Town)
+
+PlaySong(JayWalking -v 0.2)
+
+Show(Faith)
+
+Narrator "Leaving your apartment you breathe in that suburban air"
+
+PlaySFX(Breathe)
+
+MoveCharacter(Faith 0.2 0.5 0.75)
+
+??? "Heh it's like I never left, this place is the same as it was before I left for college four years ago."
+
+??? "Hmm it's been a while and we have time let's take the long way"
+
+Narrator "Walking through the neighborhood you dwell on your past"
+
+??? "Oh wow it's Old Man Jerry's old rental store I remember overhearing people back in high school would hang out here and rent movies."
+
+??? "I'd considered asking to join back then but the anxiety of not knowing what to say or the fear of embarrassing myself froze me in place"
+
+Narrator "You see a sign on the door saying the store is going out of business"
+
+??? "Hm yea that makes sense, you can just stream everything these days. Hey isn't that where Kate's Karaoke used to be, oh looks like they replaced it with a new Moondollars, man people sure can't get enough coffee can they"
+
+MoveCharacter(Faith 0.5 0.5 0.75)
+
+choice "Get Some Coffee"
+{
+	-Yea I Could Use the Caffeine Boost
+		Load(CoffeeBreak)
+	-Nah I'm Tryna to Cut Down on the Caffeine 
+		??? "Yea I don't think so, especially after all those all-nighters during finals week I probably have caffeine flowing through my veins instead of blood at this point" 
+}
+
+MoveCharacter(Faith 0.4 0.5 0.75)
+
+Narrator "Deciding that's enough reminiscing for one day, you continue your trek to work until you come across a run down looking building"
+
+??? "...Wait this can't be right where's Susan's bookstore"
+
+Hide(AdultCeleste)
+
+Narrator "Shocked you decide to enter the building"
+
+StopSong()
+
+Load(Remincising)
+

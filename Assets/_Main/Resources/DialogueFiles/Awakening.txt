@@ -1,0 +1,52 @@
+SetLayerMedia(background RoomNight)
+
+PlaySong(Break -v 0.2)
+
+PlaySFX(IPhone)
+
+Narrator "Awaken by the bane of your existence you slowly open your eyes and regain your senses"
+
+??? "HOLY CRAP where I am, actually who am I, WAIT I DON'T REMEMBER MY NAME"
+
+Show(Faith)
+
+Scarlett "Oh yea my name is Scarlett now that that's been settled where the hell am I"
+
+Narrator "You look around and find yourself in a room and suddenly your hit with a wave of nostalgia"
+
+Scarlett "Wait a second this is my old room, how'd I get here I moved outta here years ago"
+
+Narrator "A chill runs down your spine as you recall your supposed final moments, you quickly lift up your shirt to view your now intact body"
+
+Scarlett "Wait wait wait hold on didn't I die, it's all so vivid the pain, the blood, the sense of dread I couldn't have imagined all that and yet here I am alive and well standing in my old room how can th-"
+
+Narrator "Before your able to finish that thought you hear an annoyingly familiar yet endearing voice calling you"
+
+??? "Hurry up and get down here or else we'll be late your breakfast is getting cold"
+
+Scarlett "That can't possibly be who I think it is right, I haven't seen her since I left for college"
+
+Narrator "As you make your way towards the voice you pass a mirror and stumble in disbelief after witnessing what was reflected back at you"
+
+Scarlett "What the hell is that me, why do I look so young what's going o-"
+
+Narrator "Once again your thoughts are interrupted, this time by the door being flung open and a stern yet familiar face is standing in front of you. Before you can even react you feel a tear roll down your face"
+
+Narrator "And you find yourself rushing into the arms of the woman standing in front of you"
+
+Scarlett "*sobbing* MOM is that really you I thought I'd never see you again. I was so scared I didn't know what to do I thought I'd die alone in that wreckage"
+
+Narrator "she flicks you on the forehead"
+
+Mom "What the heck are you talking about you've been in your room all day actually it's still only 8:00am you probably just had a bad dream"
+
+Mom "Anyway why are you up here dilly dallying didn't I tell your gonna be late *hands you a bagel* eat this and get your ass to school" 
+
+Mom "This is your first day of high school and you WILL NOT BE LATE"
+
+Hide(Faith)
+
+Scarlett "...wait what"
+
+Load("Day 1 - Walk")
+

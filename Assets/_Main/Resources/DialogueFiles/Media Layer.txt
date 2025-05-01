@@ -1,0 +1,15 @@
+SetLayerMedia(background Barracks)
+
+PlaySong(Upbeat)
+PlayAmbience(RainyMood)
+
+Narrator "Test"
+
+choice "Scene Switching Test"
+{
+	-Go To Library
+		Load(TravelToStore)
+	-Go To Room
+		Load(TravelToRoom)
+
+}

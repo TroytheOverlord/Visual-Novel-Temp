@@ -6,6 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Visual Novel.unity
+    path: Assets/Scenes/Prologue/Visual Novel.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Prologue/Walking.unity
+    guid: 4b81bc5d6da6b43329c38601b1ec168c
+  - enabled: 1
+    path: Assets/Scenes/Prologue/Susan's Store.unity
+    guid: 0758aacbb79604d61ae43fdfad8a9586
+  - enabled: 1
+    path: Assets/Scenes/Prologue/TheEnd.unity
+    guid: bca7c85c96528421bb484d88a0e68a30
+  - enabled: 1
+    path: Assets/Scenes/Prologue/AbandonedStore.unity
+    guid: adfa7d402bcb24223a667eb43e8e3666
+  - enabled: 1
+    path: Assets/Scenes/Prologue/Afterwards.unity
+    guid: f9b4d930916d141c8a21620b2e92929e
+  - enabled: 1
+    path: Assets/Scenes/Day  1/Quiz Game.unity
+    guid: 953119cb895bd479fb7ee2d4a0ec935a
+  - enabled: 1
+    path: Assets/Scenes/Day  1/Day 1 Post Quiz.unity
+    guid: 324ceca9f2a90438b9e4ee00925b0929
+  - enabled: 1
+    path: Assets/Scenes/Prologue/Courtyard.unity
+    guid: 44096703284d644efb52acd1783f9959
+  - enabled: 1
+    path: Assets/Scenes/Prologue/Courtyard#2.unity
+    guid: 17bd559c323fd477486222afc8340131
   m_configObjects: {}

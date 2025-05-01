@@ -1,0 +1,18 @@
+wait(1), CreateCharacter(Sayori 1 -e true)
+
+wait(1), CreateCharacter(Faith 1 -e true)
+
+wait(1), CreateCharacter(AdultCeleste 1 -e true)
+
+MoveCharacter(Faith 1 1 0.75)
+
+Hide(Sayori)
+
+MoveCharacter(Faith 0 1 0.75)
+
+Faith "Hey where did Sayori go"
+
+
+
+
+

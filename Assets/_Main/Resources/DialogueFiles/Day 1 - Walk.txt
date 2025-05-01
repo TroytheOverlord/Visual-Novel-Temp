@@ -1,0 +1,26 @@
+SetLayerMedia(background Town)
+
+Narrator "After essentially beeping kicked out of the house by your mother you begin your trek to school for your first day"
+
+Show(Faith)
+
+Narrator "While walking you use this time to go over everything that's happened"
+
+Scarlett "man can't remember the last time I experienced that anyway gotta head to school *sigh* not looking forward to that"
+
+Scarlett "anyway we can despair later what the hell is going on here its been at least 20 minutes since I woke up, I've felt pain and other sensations like taste, touch and smell this seems to real to be a dream but the idea of being sent back in time is ridiculous."
+
+Scarlett "But just for a second let's say I believe it why me why now. Wait let's retrace my steps I was walking to work reminisces on the past when I was run over"
+
+Narrator "you break into a cold sweat"
+
+Scarlett "hahaha......there's no way I actually died right I mean look I'm standing right here....granted I'm nearly eight years younger but I'm alive nonetheless, actually this reminds me of that one anime I watched where something similar happened to the protagonist"
+
+Scarlett "ugh am I really comparing my life to an anime, anywho let's test the waters and see what where this day takes us we'll make more concrete judgements after experiencing more of this dream, hallucination, or whatever this is"
+
+Hide(Faith)
+
+Narrator "You continue your trek to school, pushing your immediate concerns aside for the time being"
+
+Load("Day 1 - Assembly")
+

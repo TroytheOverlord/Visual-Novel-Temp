@@ -1,0 +1,21 @@
+Narrator "Live Everyday to the Fullest"
+
+CreateCharacter(Sayori 1 -e true)
+
+Saya "I've often heard those words....wait this isn't the room I'm usually in, and who's Saya my name's supposed to be Sayori"
+
+CreateCharacter(AdultCeleste 1 -e true)
+
+??? "Oh did no one tell you your getting axed we got some new assets now"
+
+Saya "Who are you and what do you mean I'm axed I was the original asset"
+
+??? "Don't worry about who I am maybe you'll find out as a player and original, please you were only a placeholder and now your looking at your replacement so goodbye"
+
+Saya "WAIT NO YOU CAN'T DO THIS TO M"
+
+Hide(Sayori)
+
+??? "Now that she gone let's get into a peek of the game I'll catch you guys later"
+
+Hide(AdultCeleste) 

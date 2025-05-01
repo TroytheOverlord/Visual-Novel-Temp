@@ -1,0 +1,12 @@
+print_1p("This is a command running straight from the dialogue file")
+
+Sayori "Oh I love this song" [wait]moveCharDemo(left)
+
+[wait]moveCharDemo(right)
+
+[wait]moveCharDemo(left)
+
+playSFX_truckHorn
+
+
+

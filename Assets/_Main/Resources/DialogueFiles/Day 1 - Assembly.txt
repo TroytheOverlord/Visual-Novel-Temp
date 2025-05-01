@@ -1,0 +1,46 @@
+SetLayerMedia(background Walkway)
+
+PlaySong(Upbeat -v 0.2)
+
+Show(Faith)
+
+Narrator "After a hectic morning you finally make it to school, just narrowly missing the late bell"
+
+Scarlett "Heh, being late on the first day I remember the stares I got from the teachers they were all clearly thinking "Oh boy we already got a troublemaker", but not this time I made it....just barely but I still made it"
+
+Narrator "You hear a voice over the loudspeaker"
+
+PlaySFX(Intercom)
+
+??? "Hello students, for those returning welcome back and for our new students welcome to the place where you'll go from boys and girls with dreams to men and women with ambitions."
+
+Mrs. Smith "I'm your principal Mrs. Smith and I look forward to all you'll accomplish at this school now make your way to auditorium for the morning assembly"
+
+PlaySFX(Intercom)
+
+Scarlett "Oh yea I forgot about Principal Smith, granted the way I went about things during my first time around I never really had the chance to interact with her....let alone anyone for that matter"
+
+Narrator "Your shake your head in an attempt to repel the negative thoughts"
+
+Hide(Faith)
+
+Scarlett "enough of that we'll have time to sulk later let's getting going to the auditorium"
+
+SetLayerMedia(background Auditorium)
+
+Narrator "You finally get to the auditorium and take your seat, after a few minutes Principal Smith enters and start the traditional boring speech all schools give on the first day."
+
+Narrator "As you and everyone around you struggle to stay awake you finally succumb and fall asleep"
+
+Mrs Smith "And that is all oh silly me I nearly forgot to leave you with the most important take away from this speech. So listen well students"
+
+Narrator "You begin to open your eyes"
+
+Mrs. Smith "Time waits for no man, woman, or child cruel as it may be that is a fact of life, sometimes our time is cut short other times we take it for granted" 
+
+Mrs.Smith "so make the most of your life and live everyday to the fullest so that even if your time is cut short you'll have no regrets" 
+
+Mrs. Smith "Your all dismissed now enjoy your first day" 
+
+Load("Day 1 - Homeroom")
+

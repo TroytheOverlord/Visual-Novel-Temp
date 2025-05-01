@@ -1,0 +1,31 @@
+SetLayerMedia(background "Abandoned Store")
+
+PlaySong("In The Silence" -v 0.2)
+
+Narrator "Upon entering the building you met with countless dust particles and the charred remains of your high school haven."
+
+Narrator "You stand there in a trance like state, until the light shining in from one of the countless holes in the wall brings you back to your senses"
+
+??? "What the hell happened here everything's ruined"
+
+Narrator "You survey the wreckage and are overwhelmed by the countless memories of the time you would spend with your head in one of various books on display"
+
+choice "Which series are you Familiar With"
+{
+	-Harry Potter
+		??? "I remember I read the entirety of the Harry Potter books in that corner just chilling on the sofa reading the hours away"
+	-Percy Jackson
+	??? "I remember I read the entirety of the Percy Jackson books in that corner just chilling on the sofa reading the hours away"
+
+	-Lord of the Rings
+		??? "I remember I read the entirety of the Lord of the Rings books in that corner just chilling on the sofa reading the hours away"
+}
+
+??? "But I guess now they'll just become memories that'll fade with time"
+
+Narrator "Once you finish Reminiscing you leave the building and continue walking to work until you come to a grim realization"
+
+SetLayerMedia(background Town)
+
+Load(OldMan#1)
+
