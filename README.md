@@ -61,3 +61,9 @@ The goal of *What If* is to experiment with interactive narrative systems, devel
 <img width="820" height="404" alt="Screenshot 2025-03-09 at 1 39 04 PM" src="https://github.com/user-attachments/assets/aacd1fa3-d0fb-410b-a0cf-346d5e0b9c27" />
 
 ---
+## 🎨 Credits
+
+- **Character Sprites** – Free asset pack from itch.io.  
+- **Background Music** – Royalty-free, non-copyright track from a free music site.  
+
+*Note: Assets are placeholders for prototyping*
